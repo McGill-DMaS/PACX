@@ -1,6 +1,17 @@
 # PAC-X: Fuzzy Explainable AI for Multi-Class Malware Detection
 
-## 🧠 What is PAC-X?
+## 🎯 What does PAC stand for?
+
+PAC-X derives its name from three core explainability concepts:
+
+### **P - Prospect**
+Potential classifications the model can make (benign, ransomware, spyware, etc.). Represents the likelihood and implications of each malware class.
+
+### **A - Aspect** 
+Distinct features used for classification (API calls, strings, import/export data). Identifies crucial patterns indicative of specific malware behaviors.
+
+### **C - Context**
+Data clustering from training that provides reference patterns. Uses shared characteristics among files to contextualize classification decisions against known malware families.
 
 Researchers often approach malware detection as a **binary classification** problem.  
 However, evidence shows that:
