@@ -57,4 +57,4 @@ Extensive experiments across multiple malware datasets show that PAC-X:
 ---
 If you use this work in your research, please cite:
 
-M. Saqib, B. C. M. Fung, and P. Charland. PAC-X: fuzzy explainable AI for multi-class malware detection. IEEE Transactions on Fuzzy Systems (TFS), doi: 10.1109/TFUZZ.2025.3621833, in press. IEEE Press.
+M. Saqib, B. C. M. Fung, and P. Charland. PAC-X: fuzzy explainable AI for multi-class malware detection. IEEE Transactions on Fuzzy Systems (TFS), 34(1):53-64, January 2026. IEEE Press. https://doi.org/10.1109/TFUZZ.2025.3621833
